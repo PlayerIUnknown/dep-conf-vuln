@@ -38,7 +38,7 @@
     "vedantu-ab": "^1.0.0",
     "vedantu-daad": "^1.7.0",
     "vedantu-czz": "^1.6.0",
-    "vedantu-sff": "^1.8.9",
+    "vedantu-sff": "^1.8.9"
   },
   "scripts": {
     "start": "rm -rf dist && rollup -c -w",
