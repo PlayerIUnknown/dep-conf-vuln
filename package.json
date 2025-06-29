@@ -34,7 +34,11 @@
     "rollup-plugin-json": "^3.1.0",
     "rollup-plugin-peer-deps-external": "^2.2.0",
     "rollup-plugin-replace": "^2.1.0",
-    "webpack": "^4.29.6"
+    "webpack": "^4.29.6",
+    "vedantu-ab": "^1.0.0",
+    "vedantu-daad": "^1.7.0",
+    "vedantu-czz": "^1.6.0",
+    "vedantu-sff": "^1.8.9",
   },
   "scripts": {
     "start": "rm -rf dist && rollup -c -w",
